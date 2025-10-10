@@ -24,6 +24,14 @@ You can also specify a comic book to load via the ?bookUri parameter.  Some exam
 Or a [comic book reading list](https://github.com/codedread/kthoom/tree/master/reading-lists) via
 the ?readingListUri parameter.
 
+## About this fork
+
+This fork is only used to create packages for use in other projects.
+
+The [code/ files](code/) are available as:
+* PHP composer package: [mikespub/codedread-kthoom](https://packagist.org/packages/mikespub/codedread-kthoom), or
+* NPM javascript package: see kthoom
+
 ## Documentation
 
 ### File Support

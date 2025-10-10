@@ -4,3 +4,5 @@ coverage
 gkey.json
 node_modules
 tools/desadulate
+composer.lock
+vendor/

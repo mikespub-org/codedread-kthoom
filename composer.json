@@ -1,0 +1,18 @@
+{
+    "name": "mikespub/codedread-kthoom",
+    "description": "Comic Book Reader in the Browser",
+    "authors": [
+        {
+            "name": "codedread",
+            "homepage": "https://github.com/codedread/kthoom",
+            "role": "Developer"
+        },
+        {
+            "name": "mikespub",
+            "homepage": "https://github.com/mikespub-org/codedread-kthoom",
+            "role": "Developer"
+        }
+    ],
+    "type": "library",
+    "license": "MIT"
+}

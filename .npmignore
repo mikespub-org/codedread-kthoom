@@ -1,0 +1,11 @@
+.gitattributes
+.gitremotes
+.c8rc.json
+.github/
+docs/
+examples/
+reading-lists/
+tests/
+tools/
+composer.lock
+vendor/
